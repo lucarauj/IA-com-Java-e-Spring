@@ -15,3 +15,12 @@
 - Lombok
 - Langchain4j 
 
+## Anotações
+
+- @PostMapping
+- @RestController
+- @RequestBody
+- @RequestMapping
+- @Value
+
+

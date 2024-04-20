@@ -1,10 +1,10 @@
-package com.fernandakipper.ai;
+package com.lucarauj.ai;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AiApplicationTests {
+class AIApplicationTests {
 
 	@Test
 	void contextLoads() {
