@@ -1,4 +1,10 @@
-<h1 align="center">Inteligência Artificial com Java e Spring</h1>
+<p align="center"><img width="500px" src="https://github.com/lucarauj/IA-com-Java-e-Spring/blob/main/src/main/resources/images/java_spring_lmstudio_huggingface.png" /></p>
+
+<br>
+
+## 🔴 Projeto
+
+- Aplicação desenvolvida em Java e Spring que faz integração com Inteligência Artificial, sendo explorado o modelo de inteligência disponibilizado pelas plataformas Hugging Face e LM Studio. 
 
 <br>
 
