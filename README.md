@@ -1,28 +1,46 @@
-# Inteligência Artificial com Java e Spring
+<h1 align="center">Inteligência Artificial com Java e Spring</h1>
 
 <br>
 
-## Ferramentas
+## 🛠 Ferramentas
 
 - LM Studio (https://lmstudio.ai/) 👉🏼 Google's Gemma 2B Instruct
 - Langchain4j (https://docs.langchain4j.dev/)
 - Hugging Face (https://huggingface.co/models)
 
-## Dependências
+<br>
+
+## ⚙ Dependências
 
 - Spring Web
 - Devtools
 - Lombok
 - Langchain4j 
 
-## Anotações
+<br>
 
-- @PostMapping
-- @RestController
-- @RequestBody
-- @RequestMapping
-- @Value
+## 📝 Anotações
 
-1:09
+>[@PostMapping](https://github.com/lucarauj/Anotacoes-Spring-Framework)
+
+>[@RestController](https://github.com/lucarauj/Anotacoes-Spring-Framework)
+
+>[@RequestBody](https://github.com/lucarauj/Anotacoes-Spring-Framework)
+
+>[@RequestMapping](https://github.com/lucarauj/Anotacoes-Spring-Framework)
+
+>[@Value](https://github.com/lucarauj/Anotacoes-Spring-Framework)
+
+<br>
+
+# 👨🏼‍🎓 Aluno
+
+Lucas Araujo
+
+<a href="https://www.linkedin.com/in/lucarauj"><img alt="lucarauj | LinkdeIN" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a>
+
+
+
+
 
 
