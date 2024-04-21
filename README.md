@@ -33,6 +33,14 @@
 
 <br>
 
+## 🌐 Requisição via Postman
+
+<br>
+
+<p align="left"><img width="700px" src="https://github.com/lucarauj/IA-com-Java-e-Spring/blob/main/src/main/resources/images/requisicao.png" /></p>
+
+<br>
+
 # 👨🏼‍🎓 Aluno
 
 Lucas Araujo
